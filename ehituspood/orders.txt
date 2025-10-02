@@ -1,0 +1,4 @@
+2025-10-02 10:15:07|23 m²|Vundament|995.90€|Tavaline
+2025-10-02 10:25:07|23 m²|Vundament|995.90€|Tavaline
+2025-10-02 10:30:31|23 m²|Katus|493.87€|Tavaline
+2025-10-02 10:41:44|23 m²|Vundament|995.90€|Tavaline
